@@ -27,7 +27,7 @@ blanc si équipé)
 - Clique droit sur un objet, cela supprime l’objet de l’inventaire.
 - La touche A sert à parer les coups des ennemis, de tous les côtés bien sûr il
 est impossible d’attaquer et de parer en même temps.
-- La touche E sert à attaquer l’ennemi auquel on fait face (selon l’orientation du
-personnage). Elle permet aussi lorsqu’un décor devant nous est cassable de
-le frapper et de la casser lorsqu’on lui a enlevé toute sa vie.
- <img="doc/jeux_image.png" />
+- La touche E sert à attaquer l’ennemi auquel on fait face (selon l’orientation du 
+personnage). Elle permet aussi lorsqu’un décor devant nous est cassable de  
+le frapper et de la casser lorsqu’on lui a enlevé toute sa vie.  
+ <img src="doc/jeux_image.png" />
