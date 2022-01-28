@@ -1,0 +1,3 @@
+pour lancer l'affichage il faut compiler Panneau.java puis Execution.java
+et exécuter Execution.java
+pour afficher des modifs il faudra recompiler Panneau.java avant de relancer
