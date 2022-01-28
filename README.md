@@ -10,8 +10,8 @@ moment et la reprendre plus tard.
 
 ## COMMANDES  
 La classe principales est craftsurvive.java. Le lancement du jeux s’effectue depuis  
-l’exécutable source3.jar située dans le dossier build-jar. Il arrive que sous certains  
-systèmes d’exploitation (Linux particulièrement) l’affichage ai un problème (seul le  
+l’exécutable CraftSurvive.jar. Il arrive que sous certains  
+systèmes d’exploitation (Linux particulièrement) l’affichage ait un problème (seul le  
 joueur et les ennemis apparaissent) lorsque l’application est lancé depuis l’archive.  
 Pour résoudre le problème il est nécessaire de copier le dossier image présent dans  
 le dossier build-jar et de le mettre dans le répertoire ./home/NOM_UTILISATEUR.  
@@ -30,3 +30,4 @@ est impossible d’attaquer et de parer en même temps.
 - La touche E sert à attaquer l’ennemi auquel on fait face (selon l’orientation du
 personnage). Elle permet aussi lorsqu’un décor devant nous est cassable de
 le frapper et de la casser lorsqu’on lui a enlevé toute sa vie.
+ <img="doc/jeux_image.png" />
