@@ -1,5 +1,5 @@
 # CraftSurvive  
-##INTRODUCTION  
+## INTRODUCTION  
 CraftSurvive est un jeu de survie dans lequel un personnage évolue à travers  
 différents territoires. L’objectif est de rester en vie malgré les confrontations contre  
 des ennemis générés aléatoirement. Il détiendra un inventaire d’armes et d’armures  
