@@ -1,0 +1,18 @@
+hamster
+loup
+leopard
+chat
+lynx
+chimpanze
+cerf
+orang outan
+coyote
+chien
+renard
+souris
+oiseau
+tigre
+lapin
+lion
+gorille 
+babouin
